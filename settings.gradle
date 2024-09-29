@@ -1,0 +1,5 @@
+rootProject.name = 'Work-lab7'
+include 'Client'
+include 'Common'
+include 'Server'
+
